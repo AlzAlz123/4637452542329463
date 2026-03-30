@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": ".aternos.me",
+    "ip": "GrupSV.aternos.me",
     "port": 11342,
     "version": "1.21.11",
     "try-creative": false
